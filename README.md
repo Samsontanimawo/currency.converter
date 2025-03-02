@@ -1,2 +1,1 @@
-# currency.converter
-The Exchange Rate Converter is a web-based application designed to provide efficient and accurate currency conversion.
+This is the link to the live project: https://samsontanimawo.github.io/currency.converter/
